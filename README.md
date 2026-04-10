@@ -20,7 +20,7 @@
 | Languages | Python, SQL |
 | Big Data | PySpark, Apache Spark |
 | Platforms | Databricks |
-| Currently Learning | Airflow, dbt |
+
 
 ---
 
@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanelsebaey&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanelsebaey&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=abdelrahmanelsebaey&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanelsebaey&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
