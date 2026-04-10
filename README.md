@@ -35,14 +35,6 @@
 | [BlackFridaySales_Datacleaning_Pyspark](https://github.com/abdelrahmanelsebaey/BlackFridaySales_Datacleaning_Pyspark) | Black Friday sales data cleaning and transformation | PySpark |
 | [Amazon_datacleaning](https://github.com/abdelrahmanelsebaey/Amazon_datacleaning) | Amazon product data cleaning and preprocessing | Python, Pandas |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelrahmanelsebaey&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanelsebaey&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
