@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abd El-Rahman 👋</h1>
-<h3 align="center">Aspiring Data Engineer | PySpark · Databricks · SQL · Python</h3>
+<h3 align="center">Junior Data Engineer | PySpark · Databricks · SQL · Python</h3>
 
 ---
 
