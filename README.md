@@ -28,9 +28,12 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| Pipeline 1 | *()* | Python, PySpark |
-| Pipeline 2 | *()* | SQL, Databricks |
-| Pipeline 3 🚧 | *(coming soon)* | TBD |
+| [ecommerce-lakehouse-pipeline](https://github.com/abdelrahmanelsebaey/ecommerce-lakehouse-pipeline) 🚧 | End-to-end lakehouse pipeline for e-commerce data | PySpark, Databricks |
+| [crypto-lakehouse-pipeline](https://github.com/abdelrahmanelsebaey/crypto-lakehouse-pipeline) | Lakehouse pipeline processing cryptocurrency market data | PySpark, Databricks |
+| [pizza-mini-lakehouse](https://github.com/abdelrahmanelsebaey/pizza-mini-lakehouse) | Mini lakehouse architecture built on pizza sales data | PySpark, Databricks |
+| [Football_Dataset_DataWarehouse](https://github.com/abdelrahmanelsebaey/Football_Dataset_DataWarehouse) | Data warehouse for football dataset analytics and reporting | SQL, T-SQL |
+| [BlackFridaySales_Datacleaning_Pyspark](https://github.com/abdelrahmanelsebaey/BlackFridaySales_Datacleaning_Pyspark) | Black Friday sales data cleaning and transformation | PySpark |
+| [Amazon_datacleaning](https://github.com/abdelrahmanelsebaey/Amazon_datacleaning) | Amazon product data cleaning and preprocessing | Python, Pandas |
 
 ---
 
