@@ -28,7 +28,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [ecommerce-lakehouse-pipeline](https://github.com/abdelrahmanelsebaey/ecommerce-lakehouse-pipeline) 🚧 | End-to-end lakehouse pipeline for e-commerce data | PySpark, Databricks |
+| [ecommerce-lakehouse-pipeline](https://github.com/abdelrahmanelsebaey/ecommerce-lakehouse-pipeline)  | End-to-end lakehouse pipeline for e-commerce data | PySpark, Databricks |
 | [crypto-lakehouse-pipeline](https://github.com/abdelrahmanelsebaey/crypto-lakehouse-pipeline) | Lakehouse pipeline processing cryptocurrency market data | PySpark, Databricks |
 | [pizza-mini-lakehouse](https://github.com/abdelrahmanelsebaey/pizza-mini-lakehouse) | Mini lakehouse architecture built on pizza sales data | PySpark, Databricks |
 | [Football_Dataset_DataWarehouse](https://github.com/abdelrahmanelsebaey/Football_Dataset_DataWarehouse) | Data warehouse for football dataset analytics and reporting | SQL, T-SQL |
